@@ -39,3 +39,10 @@ setState(state => {
 This still errors!
 
 The problem is demonstrated in `demo.tsx`. Just open it in VS Code and see the TS error pop up.
+
+This is a known error with the TypeScript typings:
+
+- https://github.com/DefinitelyTyped/DefinitelyTyped/issues/33697
+- https://github.com/DefinitelyTyped/DefinitelyTyped/issues/18365
+- https://github.com/DefinitelyTyped/DefinitelyTyped/issues/26635
+- 
