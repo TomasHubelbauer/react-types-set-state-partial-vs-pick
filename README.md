@@ -37,3 +37,5 @@ setState(state => {
 ```
 
 This still errors!
+
+The problem is demonstrated in `demo.tsx`. Just open it in VS Code and see the TS error pop up.
